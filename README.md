@@ -1,6 +1,6 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Saurabh Kumar</h1>
-<h3 align="center">A passionate full Stack developer from India</h3>
+<h3 align="center" >Otaku</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=indskgit&label=Profile%20views&color=0e75b6&style=flat" alt="indskgit" /> </p>
 
