@@ -69,4 +69,4 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   
-   <a href="https://github.com/SubhadeepZilong"><img alt="indskgit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=indskgit&custom_title=indskgit's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/indskgit"><img alt="indskgit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=indskgit&custom_title=indskgit's%20Contribution%20Graph&theme=react-dark" /></a>
