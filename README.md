@@ -4,10 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=indskgit&label=Profile%20views&color=0e75b6&style=flat" alt="indskgit" /> </p>
 
-- 🔭 I’m currently working on **Compiler**
-
-- 🌱 I’m currently learning **Node Js**
-
 - 👨‍💻 All of my projects are available at [https://github.com/indskgit?tab=repositories](https://github.com/indskgit?tab=repositories)
 
 - 💬 Ask me about **React, DSA, Java**
